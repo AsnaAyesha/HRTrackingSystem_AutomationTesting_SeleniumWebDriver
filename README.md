@@ -1,5 +1,5 @@
-Project: Human Resource Tracking System
-Domain: Employee Management Software
+Project: Human Resource Tracking System \n
+Domain: Employee Management Software  \n
 Testing Tool: Selenium Webdriver
 Programming Language: Python
 Test Automation Frameworks listed below:
